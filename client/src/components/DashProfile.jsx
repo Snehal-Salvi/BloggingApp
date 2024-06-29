@@ -37,5 +37,5 @@ export default function DashProfile() {
         <span className="cursor-pointer">Sign Out</span>
       </div>
     </div>
-  );
+  ); 
 }
